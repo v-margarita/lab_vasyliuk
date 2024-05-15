@@ -4,32 +4,35 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Giving joy',
+    Svg: require('@site/static/img/flowers1.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Flowers spread joy with their vibrant colors and delicate beauty, 
+        lifting spirits and brightening days with their enchanting presence.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Inspire',
+    Svg: require('@site/static/img/flowers2.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Flowers inspire people through their beauty and resilience, igniting creativity and symbolizing hope.
+        Their rich symbolism and ability to bloom amidst challenges evoke emotions and connect individuals
+        to deeper meanings, fostering reflection and inspiration.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Brightrn up everyday life',
+    Svg: require('@site/static/img/flowers3.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+         Their presence uplifts moods, creates a peaceful ambiance, 
+         and reminds us to appreciate the simple joys found in nature, 
+         ultimately enhancing our overall well-being and happiness.
+
       </>
     ),
   },
