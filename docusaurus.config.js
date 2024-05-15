@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Laboratory work',
-  tagline: 'Laboratory work is cool',
+  title: 'Flowers',
+  tagline: 'A journey to the world of flowers!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -66,9 +66,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Laboratory work',
+        title: 'Flowers',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'A journey to the world of flowers',
           src: 'img/logo.svg',
         },
         items: [
