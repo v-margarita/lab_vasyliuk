@@ -69,7 +69,7 @@ const config = {
         title: 'Flowers',
         logo: {
           alt: 'A journey to the world of flowers',
-          src: 'img/logo.svg',
+          src: 'img/favicon.ico',
         },
         items: [
           {
