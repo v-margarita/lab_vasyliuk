@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Flowers',
-  tagline: 'A journey to the world of flowers!',
+  tagline: 'A journey to the world of flowers.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
